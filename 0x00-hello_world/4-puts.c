@@ -1,7 +1,9 @@
 #include <stdio.h>
+
 /**
- * A C program that uses the puts function
- * return: 0 (Success)
+ * main - Entry Point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
